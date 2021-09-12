@@ -1,0 +1,32 @@
+*{
+    background-color: aquamarine;
+    margin: 1%;
+}
+.link{
+    width: 200px;
+    height: 200px;
+}
+.link img {
+    width: 400px;
+    height:400px;
+}/*
+.flex-container{
+    width: 50vw;
+    height: 50vh;
+    background-color: blue;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items:flex-end;
+    justify-content:space-around;
+    
+}
+.flex-item{
+    background-color: blueviolet;
+    width: 15%;
+    height: 15%;
+    border: 2px solid chartreuse;
+}
+img{
+    width: 50px;
+    height: 50px;
+}*/
